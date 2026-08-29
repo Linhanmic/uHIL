@@ -1,0 +1,18 @@
+[submodule "flash"]
+	path = flash
+	url = https://github.com/getgauge/Flash.git
+[submodule "flash-plus"]
+	path = flash-plus
+	url = https://github.com/Linhanmic/flash-plus.git
+[submodule "gauge"]
+	path = gauge
+	url = https://github.com/getgauge/gauge.git
+[submodule "gauge-js-demo"]
+	path = gauge-js-demo
+	url = https://github.com/Linhanmic/gauge-js-demo.git
+[submodule "gauge-proto"]
+	path = gauge-proto
+	url = https://github.com/getgauge/gauge-proto.git
+[submodule "html-report"]
+	path = html-report
+	url = https://github.com/getgauge/html-report.git
